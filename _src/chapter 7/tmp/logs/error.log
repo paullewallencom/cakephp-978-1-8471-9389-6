@@ -1,0 +1,2 @@
+2008-02-06 18:40:17 Warning: Warning (2): split() [<a href='http://php.net/function.split'>function.split</a>]: REG_EBRACK in [APP\controllers\books_controller.php, line 29]
+2008-02-06 18:56:16 Warning: Warning (2): Wrong parameter count for ereg() in [APP\controllers\books_controller.php, line 28]
